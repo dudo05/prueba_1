@@ -1,0 +1,7 @@
+import random
+items = "¿1234567890-abcdefghijklmnopqrstuvwxyz_{.,:;}?"
+input = ("introduce un numero de caracteres posibles")
+for i in range (pass items)
+print(random.choice)
+pasword += random.choice(items)
+print("pasword")
